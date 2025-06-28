@@ -12,8 +12,6 @@
 
 Controller Editor's "Cleanup unused sub-assets" in a standalone and faster script.
 
-![ControllerCleaner](https://i.imgur.com/QIDZTdq.png)
-
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/ControllerCleaner/releases/latest)
 
 
