@@ -1,7 +1,8 @@
-Note: this fork goes against Dreadrith's, the Original Author, wishes. Is is however compliant with the original OS license.
+Note: this fork goes against Dreadrith's, the Original Author, wishes. It is however compliant with the original OS license.
 <div align="center">
 
 # Controller Cleaner
+
 
 [![Generic badge](https://img.shields.io/github/downloads/VRLabs/ControllerCleaner/total?label=Downloads)](https://github.com/VRLabs/ControllerCleaner/releases/latest)
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/ControllerCleaner/blob/main/LICENSE)
@@ -13,6 +14,8 @@ Note: this fork goes against Dreadrith's, the Original Author, wishes. Is is how
 
 Controller Editor's "Cleanup unused sub-assets" in a standalone and faster script.
 
+![Preview](https://github.com/user-attachments/assets/eb139835-f5e8-4f3c-a9c3-bba1090d25a1)
+
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/ControllerCleaner/releases/latest)
 
 
@@ -23,6 +26,8 @@ Controller Editor's "Cleanup unused sub-assets" in a standalone and faster scrip
 ---
 
 ## What it does
+
+![Preview](https://github.com/user-attachments/assets/4f21ec68-24a4-4549-a627-0b95e244656f)
 
 Sub-assets are assets embedded into a parent asset but are hidden by default. Certain actions may cause sub-assets to remain as residue in a controller and build up over time without being used and only serve to bloat the controller even further and sometimes even cause issues.
 

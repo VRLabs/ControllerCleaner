@@ -18,7 +18,10 @@
   "unityPackageDestinationFolder": "Packages/dev.vrlabs.controllercleaner",
   "unityPackageDestinationFolderMetas": {},
   "vccRepoCategory": "rehosted",
+  "siteUrl": "https://github.com/VRLabs/ControllerCleaner",
   "media": {
+    "previewImage": "https://raw.githubusercontent.com/VRLabs/ControllerCleaner/main/Media/Web/Preview.webp",
+    "previewGif": "https://raw.githubusercontent.com/VRLabs/ControllerCleaner/main/Media/Web/PreviewGif.webp"
   },
   "legacyFiles": {}
 }
